@@ -2,7 +2,10 @@
 
 [![DUO R&R](https://raw.githubusercontent.com/DUO-R-R/Project-Images/refs/heads/main/LOGO_NAME.png)](https://raw.githubusercontent.com/DUO-R-R/Project-Images/refs/heads/main/LOGO_NAME.png)
 
-# DUO R&R
+<br>
+<br>
+<br>
+<br>
 
 **Small third-party creators making content for the LANCER TTRPG community.**
 
