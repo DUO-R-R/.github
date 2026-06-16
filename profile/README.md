@@ -1,6 +1,6 @@
 <div align="center">
 
-[![DUO R&R](https://raw.githubusercontent.com/DUO-R-R/Project-Images/main/RTC.png)](https://github.com/DUO-R-R/LANCER-Reditus-Company-Expansion)
+[![DUO R&R](https://raw.githubusercontent.com/DUO-R-R/Project-Images/refs/heads/main/LOGO_NAME.png)](https://raw.githubusercontent.com/DUO-R-R/Project-Images/refs/heads/main/LOGO_NAME.png)
 
 # DUO R&R
 
